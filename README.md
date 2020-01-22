@@ -18,9 +18,9 @@
     <p>
         <b>Solutions</b> <br>
         <ul style="list-style-type:disc;">
-            <li><a target=\"_blank\" href="https://theringsofsaturn.github.io/HTML-CSS-and-Javascript-Course/module2/">Module 2 solution</a></li>
-            <li><a target=\"_blank\" href="https://theringsofsaturn.github.io/HTML-CSS-and-Javascript-Course/module3/">Module 3 solution</a></li>
-            <li><a target=\"_blank\" href="https://theringsofsaturn.github.io/HTML-CSS-and-Javascript-Course/module4/">Module 4 solution</a></li>
-            <li><a target=\"_blank\" href="https://theringsofsaturn.github.io/HTML-CSS-and-Javascript-Course/module5/">Module 5 solution</a></li>
+            <li><a href="https://theringsofsaturn.github.io/HTML-CSS-and-Javascript-Course/module2/">Module 2 solution</a></li>
+            <li><a href="https://theringsofsaturn.github.io/HTML-CSS-and-Javascript-Course/module3/">Module 3 solution</a></li>
+            <li><a href="https://theringsofsaturn.github.io/HTML-CSS-and-Javascript-Course/module4/">Module 4 solution</a></li>
+            <li><a href="https://theringsofsaturn.github.io/HTML-CSS-and-Javascript-Course/module5/">Module 5 solution</a></li>
         </ul>
         </p>
