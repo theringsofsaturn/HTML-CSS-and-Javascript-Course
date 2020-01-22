@@ -20,10 +20,10 @@
     <p>
         <b>Solutions</b> <br>
         <ul style="list-style-type:disc;">
-            <li><a href="https://theringsofsaturn.github.io/coursera-test/module2/">Module 2 solution</a></li>
-            <li><a href="https://theringsofsaturn.github.io/coursera-test/module3/">Module 3 solution</a></li>
-            <li><a href="https://theringsofsaturn.github.io/coursera-test/module4/">Module 4 solution</a></li>
-            <li><a href="https://theringsofsaturn.github.io/coursera-test/module5/">Module 5 solution</a></li>
+            <li><a href="https://theringsofsaturn.github.io/HTML-CSS-and-Javascript-Course/module2/">Module 2 solution</a></li>
+            <li><a href="https://theringsofsaturn.github.io/HTML-CSS-and-Javascript-Course/module3/">Module 3 solution</a></li>
+            <li><a href="https://theringsofsaturn.github.io/HTML-CSS-and-Javascript-Course/module4/">Module 4 solution</a></li>
+            <li><a href="https://theringsofsaturn.github.io/HTML-CSS-and-Javascript-Course/module5/">Module 5 solution</a></li>
         </ul>
         </p>
 </html>
