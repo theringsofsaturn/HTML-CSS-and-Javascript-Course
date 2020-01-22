@@ -1,4 +1,3 @@
-<html>
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -25,4 +24,3 @@
             <li><a href="https://theringsofsaturn.github.io/HTML-CSS-and-Javascript-Course/module5/">Module 5 solution</a></li>
         </ul>
         </p>
-</html>
