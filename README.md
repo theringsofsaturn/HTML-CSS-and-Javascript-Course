@@ -9,10 +9,10 @@
     <p>
         <b>Assignments</b> <br>
         <ul style="list-style-type:square;">
-        <li><a target=\"_blank\" href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md">Module 2 coding assignment</a></li>
-        <li><a target=\"_blank\" href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md">Module 3 coding assignment</a></li>
-        <li><a target=\"_blank\" href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md">Module 4 coding assignment</a></li>
-        <li><a target=\"_blank\" href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md">Module 5 coding assignment</a></li>
+        <li><a href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md">Module 2 coding assignment</a></li>
+        <li><a href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md">Module 3 coding assignment</a></li>
+        <li><a href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md">Module 4 coding assignment</a></li>
+        <li><a href="https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md">Module 5 coding assignment</a></li>
         </ul>
     </p>
     <p>
