@@ -1,13 +1,13 @@
 body {
   font-size: 16px;
-  color: #fff; 
-  background-color: #6f7771;	
+  color: #fff;
+  background-color: #61122f;
   font-family: 'Oxygen', sans-serif;
 }
 
 /** HEADER **/
 #header-nav {
-  background-color: #376e6f;
+  background-color: #f6b319;
   border-radius: 0;
   border: 0;
 }
@@ -24,7 +24,7 @@ body {
 }
 .navbar-brand h1 { /* Restaurant name */
   font-family: 'Lora', serif;
-  color: #fff;
+  color: #557c3e;
   font-size: 1.5em;
   text-transform: uppercase;
   font-weight: bold;
@@ -36,7 +36,7 @@ body {
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
-.navbar-brand p { /*Certificate */
+.navbar-brand p { /* Kosher cert */
   color: #000;
   text-transform: uppercase;
   font-size: .7em;
@@ -50,11 +50,11 @@ body {
   margin-top: 10px;
 }
 #nav-list a {
-  color: #F5F5DC;
+  color: #951C49;
   text-align: center;
 }
 #nav-list a:hover {
-  background: ##c0b283;
+  background: #E7E7E7;
 }
 #nav-list a span {
   font-size: 1.8em;
@@ -68,13 +68,13 @@ body {
   padding-bottom: 0;
 }
 #phone div { /* We Deliver */
-  color: #fff;
+  color: #557c3e;
   text-align: right;
   padding-right: 15px;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid #fff;
+  border: 1px solid #61122f;
 }
 .navbar-header button.navbar-toggle {
   clear: both;
@@ -116,8 +116,8 @@ body {
 
 /* HOME PAGE */
 .container .jumbotron {
-  box-shadow: 0 0 50px #F5F5DC;
-  border: 2px solid #F5F5DC;
+  box-shadow: 0 0 50px #3F0C1F;
+  border: 2px solid #3F0C1F;
 }
 
 #menu-tile, #specials-tile, #map-tile {
@@ -125,7 +125,7 @@ body {
   width: 100%;
   margin-bottom: 15px;
   position: relative;
-  border: 2px solid #F5F5DC;
+  border: 2px solid #3F0C1F;
   overflow: hidden;
 }
 #menu-tile:hover, #specials-tile:hover, #map-tile:hover {
@@ -156,7 +156,7 @@ body {
 /* MENU CATEGORIES PAGE */
 .category-tile { 
   position: relative;
-  border: 2px solid #F5F5DC;
+  border: 2px solid #3F0C1F;
   overflow: hidden;
   width: 200px;
   height: 200px;
@@ -201,7 +201,7 @@ body {
 }
 .menu-item-photo {
   position: relative;
-  border: 2px solid ##F5F5DC; 
+  border: 2px solid #3F0C1F; 
   overflow: hidden;
   padding: 0;
   margin-right: -15px;
@@ -233,9 +233,8 @@ h3.menu-item-title {
 /********** Large devices only **********/
 @media (min-width: 1200px) {
   .container .jumbotron {
-    background: url('../images/chinese_restaurant.jpg') no-repeat;
+    background: url('../images/jumbotron_1200.jpg') no-repeat;
     height: 675px;
-    background-size: cover;
   }
 }
 
@@ -252,7 +251,7 @@ h3.menu-item-title {
 
   /* Home Page */
   .container .jumbotron {
-    background: url('../images/chinese_restaurant_992.png') no-repeat;
+    background: url('../images/jumbotron_992.jpg') no-repeat;
     height: 558px;
   }
   /* End Home Page */
@@ -262,7 +261,7 @@ h3.menu-item-title {
 @media (min-width: 768px) and (max-width: 991px) {
   /* Home Page */
   .container .jumbotron {
-    background: url('../images/chinese_restaurant_768.png') no-repeat;
+    background: url('../images/jumbotron_768.jpg') no-repeat;
     height: 432px;
   }
   /* End Home Page */
@@ -279,7 +278,7 @@ h3.menu-item-title {
     padding-top: 10px;
     font-size: 5vw; /* 1vw = 1% of viewport width */
   }
-  .navbar-brand p { /* Certificate */
+  .navbar-brand p { /* Kosher cert */
     font-size: .6em;
     margin-top: 12px;
   }
@@ -301,8 +300,8 @@ h3.menu-item-title {
     margin: 0 20px;
     padding: 10px;
     border: 2px solid #fff;
-    background-color: #c0b283;
-    color: #fff;
+    background-color: #f6b319;
+    color: #951c49;
   }
   #xs-deliver {
     margin-top: 5px;
