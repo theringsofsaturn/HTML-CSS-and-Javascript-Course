@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
 </head>
 <body>
-    <h1>HTML, CSS and Javascript for Web Developers by Johns Hopkins University on Coursera</h1>
+    <h1>HTML, CSS and Javascript for Web Developers on Coursera</h1>
     This repository contains my solutions to the coding assignments for the course <a href="https://www.coursera.org/learn/html-css-javascript-for-web-developers">HTML, CSS and Javascript for Web Developers.</a> <br>
     <p>
         <b>Assignments</b> <br>
